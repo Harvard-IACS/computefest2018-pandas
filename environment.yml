@@ -1,0 +1,8 @@
+channels:
+- defaults
+dependencies:
+- matplotlib
+- nbconvert
+- numpy
+- pandas
+- scipy
